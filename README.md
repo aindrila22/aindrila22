@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on startup project
 - 🌱 I’m currently learning MERN stack
 - 💬 Ask me about React
-- 📫 How to reach me: 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aindrila-bhattacharjee-80811217b/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: love to learn and explore
 
