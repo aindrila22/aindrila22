@@ -1,7 +1,7 @@
 ### Hi I am Aindrila Bhattacharjee 👋
 
-- 🔭 I’m currently working on startup project
-- 🌱 I’m currently learning MERN stack
+- 🔭 Currently working as a fullstack web developer.
+- 🌱 Interested in learning latest technologies.
 - 💬 Ask me about React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aindrila-bhattacharjee-80811217b/)
 - ⚡ Fun fact: love to learn and explore
