@@ -19,7 +19,7 @@
 
 **[MockExperts](https://mockexperts.com)** — Unified AI technical hiring infrastructure, built entirely solo.
 
-> 171 users · 188 sessions · 9 countries · ~$246 organic revenue · 69.2% completion rate
+> 200+ users · 200+ sessions · 9 countries · 69.2% completion rate
 
 - Engineered a **6-agent orchestration pipeline**: Orchestrator → Q-Agent → Eval-Agent → Interviewer → Anti-Cheat → Hiring Committee
 - Built a **3-agent Hiring Committee** (Tech Lead + Bar Raiser + Hiring Manager) with context compression — 90% token reduction via Performance Log + Smart Transcript Slicing
