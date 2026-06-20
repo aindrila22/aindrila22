@@ -43,7 +43,7 @@ Alongside a full-time software engineering role, I shipped MockExperts from zero
 ### ⚙️ Tech I work with
 
 ```
-Languages    TypeScript · JavaScript · Python · SQL
+Languages    TypeScript · JavaScript · Python · Go · SQL
 Frontend     Next.js · React · Tailwind CSS · WebSockets
 Backend      Node.js · Express · REST APIs · Redis · BullMQ
 Database     MongoDB · PostgreSQL
