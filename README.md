@@ -35,7 +35,7 @@
 
 Alongside a full-time software engineering role, I shipped MockExperts from zero to a live, paying, multi-country product — solo.
 
-- **MS in Computer Science** (in progress)
+- **MS in Computer Science** (Completed 2025 · 90 ECTS)
 - **"Solve It Out"** — YouTube channel on engineering & problem-solving, grown to **239,000+ views** organically
 
 ---
